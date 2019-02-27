@@ -1,0 +1,1 @@
+buf needs to point to a valid memory locatio
