@@ -1,0 +1,2 @@
+buf needs to point to a valid memory location with length not smaller than the specified size because of overflow.
+fd should be a valid file descriptor returned from open() to perform read operation because if fd is NULL then read should generate error.
